@@ -9,3 +9,5 @@ of the user and finally replace the user's face by an emoji according to the Use
  <img src="https://github.com/3li-7assan-Dev1712/Emojify_Me/blob/master/emojify_me_1.png" alt="Emojify Me Screenshot">
  <img src="https://github.com/3li-7assan-Dev1712/Emojify_Me/blob/master/emojify_me_2.png" alt="Emojify Me Screenshot">
  <img src="https://github.com/3li-7assan-Dev1712/Emojify_Me/blob/master/emojify_me_3.png" alt="Emojify Me Screenshot"></br>
+
+`written by Ali Hassan instructed by Udacity`
